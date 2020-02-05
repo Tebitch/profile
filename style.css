@@ -1,0 +1,111 @@
+body {
+  background-color: #f4f4f4;
+  font-family: Arial, sans-serif;
+  font-weight: 300;
+  color: #5f6769;
+  background-color: #eae9e9;
+}
+
+h1, h2, h3 {
+  font-family: 'Open sans', sans-serif;
+  color: #979797;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+.text-inline {
+  display: inline;
+}
+
+.img-circle {
+  width: 128px;
+  height: 128px;
+  border-radius: 50%;
+  display: inline;
+}
+
+.link-red {
+  color: red;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+i {
+  color: #5d5d5d;
+}
+
+.container-left{
+  margin: 0 auto;
+  width: 42%;
+  float: left;
+}
+
+.container-right{
+  margin: 0 auto;
+  width: 42%;
+  float: right;
+}
+
+.card-left {
+  margin: 16px;
+  padding: 16px;
+  border-radius: 4px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.2);
+  background-color: #fafafa;
+}
+
+.card-right {
+  margin: 16px;
+  padding: 16px;
+  border-radius: 4px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.2);
+  background-color: #fafafa;
+}
+
+.list-style-none li {
+  list-style: none;
+}
+
+.icon-horizontal ul {
+  padding-inline-start: 0px;
+}
+
+.icon-horizontal li {
+  display: inline-block;
+  font-size: 16px;
+  margin: 0 4px;
+  box-shadow: 0 0 4px rgba(0,0,0,0.4);
+  padding: 8px;
+  border-radius: 4px;
+}
+
+.icon-horizontal li:hover {
+  background-color: #e5e5e5;
+}
+
+.container {
+  margin: 0 auto;
+  width: 70%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-left ul{
+  text-align: left;
+}
+
